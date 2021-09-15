@@ -4,7 +4,7 @@
 
 ## 在线播放
 
-:point_right: [https://goldsubmarine.github.io/Beatles/](https://goldsubmarine.github.io/Beatles/)
+:point_right: [https://fat-bamboo.github.io/Beatles/](https://fat-bamboo.github.io/Beatles/)
 
 ## 收录专辑
 
