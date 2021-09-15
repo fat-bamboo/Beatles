@@ -10,8 +10,8 @@ glob("./music/**/*.mp3", {}, function (er, files) {
       result.push({
         name: arr[3],
         artist: "专辑-"+arr[2],
-        url: 'https://cdn.jsdelivr.net/gh/goldsubmarine/Beatles' + item.slice(1),
-        cover: 'https://cdn.jsdelivr.net/gh/goldsubmarine/Beatles/cover.jpg',
+        url: 'https://cdn.jsdelivr.net/gh/fat-bamboo/Beatles' + item.slice(1),
+        cover: 'https://cdn.jsdelivr.net/gh/fat-bamboo/Beatles/cover.jpg',
       })
     } else {
       console.log(item)
