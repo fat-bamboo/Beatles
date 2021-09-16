@@ -1,12 +1,12 @@
-# The Beatles
+# The MoonMusic
 
 本项目使用 `APlayer` 作为播放器，通过 `jsdelivr` 实现 CDN ，国内也可高速访问。
 
 ## 在线播放
 
-:point_right: [https://fat-bamboo.github.io/Beatles/](https://fat-bamboo.github.io/Beatles/)
+:point_right: [https://fat-bamboo.github.io/moonmusic/](https://fat-bamboo.github.io/moonmusic/)
 
-## 收录专辑
+## 收录 The Beatles 专辑
 
 :zap: **2009 remaster**
 
