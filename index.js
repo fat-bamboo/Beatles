@@ -11,7 +11,7 @@ glob("./music/**/*.mp3", {}, function (er, files) {
         name: arr[3],
         artist: "专辑-"+arr[2],
         url: 'https://cdn.jsdelivr.net/gh/fat-bamboo/moonmusic' + item.slice(1),
-        cover: 'https://cdn.jsdelivr.net/gh/fat-bamboo/moonmusic/丢火车.jpg',
+        cover: 'https://cdn.jsdelivr.net/gh/fat-bamboo/moonmusic/cover.jpg',
       })
     } else {
       console.log(item)
@@ -20,3 +20,4 @@ glob("./music/**/*.mp3", {}, function (er, files) {
   fs.writeFileSync('./list.js', "var list = " + JSON.stringify(result))
 
 })
+
